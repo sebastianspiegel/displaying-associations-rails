@@ -52,7 +52,7 @@ movies.posts.create!(title: "Top 20 Summer Blockbusters Featuring a Cute Dog")
 
 Woot! The best thing about the `seeds.rb` file is that it's just Ruby! There is no magic. Look, super standard Ruby. To run the seed file in the development environment, you can activate the rake task:
 
-```bash
+```bash 
 rake db:seed
 ```
 
